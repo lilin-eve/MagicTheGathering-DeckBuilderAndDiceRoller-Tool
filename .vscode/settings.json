@@ -1,0 +1,10 @@
+//  premade settings.json file for linux C++ usage
+//
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/g++",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**"    
+        ],    
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+    "C_Cpp.default.cppStandard": "c++23"
+}
